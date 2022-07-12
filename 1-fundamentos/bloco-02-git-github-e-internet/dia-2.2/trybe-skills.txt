@@ -5,3 +5,5 @@
 - CSS
 - Skill nova 3
 - Skill nova 4
+- skill mais nova 5
+- skill mais nova 6
