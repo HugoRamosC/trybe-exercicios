@@ -3,5 +3,7 @@
 - Git
 - HTML
 - CSS
+- nova skill 1
+- nova skill 2
 - Skill nova 3
 - Skill nova 4
