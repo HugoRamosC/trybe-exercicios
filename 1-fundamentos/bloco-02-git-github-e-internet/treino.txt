@@ -1,3 +1,4 @@
 novo arquivo para treino
 incluido novas informacoes no arquivo
 
+mais uma linha para teste o fetch
