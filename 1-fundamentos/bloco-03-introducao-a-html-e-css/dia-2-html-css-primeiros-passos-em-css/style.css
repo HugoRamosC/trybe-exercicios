@@ -1,0 +1,33 @@
+#titulo-exercicio {
+    font-size: 65px;
+    color: orange;
+}
+
+.classe-p-ul {
+    background-color: brown;
+}
+
+#lista-amigos {
+    background-color: blue;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+body {
+    font-size: 3em;
+    font-style: italic;
+    line: height 30px;
+    text-align: justify;
+    text-decoration: wavy;
+}
+
+p {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+li {
+    background-color: bisque;
+}
