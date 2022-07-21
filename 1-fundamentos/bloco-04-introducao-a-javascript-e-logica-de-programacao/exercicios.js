@@ -60,3 +60,12 @@ if (verify > 0) {
   console.log("zero")
 }
 
+const anguloA = 100;
+const anguloB = 10;
+const anguloC = 70;
+
+if (anguloA + anguloB + anguloC === 180) {
+  console.log("true");
+} else {
+  console.log("false");
+}
