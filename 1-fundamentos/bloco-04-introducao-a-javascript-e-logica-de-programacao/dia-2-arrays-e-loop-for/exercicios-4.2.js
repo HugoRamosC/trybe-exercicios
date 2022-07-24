@@ -71,32 +71,23 @@
 // console.log(arrayDiv2);
 
 // QUESTAO BONUS 1.
-let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+// let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 27, 35];
+
+// let menor = numbers.length
+
+// let arrayOrd = []
+
+// for (let i = 1; i < numbers.length; i++) {
+//   for (let x = 0; x < i; x++) {
+//     if (numbers[i] < numbers[x]) {
+//       menor = numbers[i];
+//       numbers[x] = menor;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//     }
+    
+//   }
+//   arrayOrd.push(menor);
+// } 
+// console.log(arrayOrd);
 
